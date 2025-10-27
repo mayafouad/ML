@@ -11,7 +11,8 @@ Supervised learning uses labeled data to train models that can make predictions.
     Use Linear Regression to predict profit for a new city based on its population.
 
  #### 2. Multiple Linear Regression
-    Predict house prices 🏠 using multiple factors — like size, number of rooms, and airconditioning.
+    Predict house prices 🏠 using multiple factors:
+    area, bedrooms, bathrooms, stories, mainroad, guestroom, basement, hotwaterheating, airconditioning, parking, prefarea,furnishingstatus.
 
 #### 3. Polynomial Regression
      Predict the number of ice cream units 🍦 sold based on temperature.
