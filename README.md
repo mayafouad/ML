@@ -19,9 +19,9 @@ Represent data as points in a multi-dimensional space, using geometric concepts 
   #### 3. Polynomial Regression
        Predict the number of ice cream units 🍦 sold based on temperature.
   
-  #### 4. KNN
+  #### 4. KNN (classification)
 
 ### 🎲 Probabilistic Models:
 Represent and analyze uncertainty within data by leveraging probability distributions.
 
-   #### 1. Logistic Regression
+   #### 1. Logistic Regression (classification)
