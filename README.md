@@ -15,4 +15,4 @@ Represent data as points in a multi-dimensional space, using geometric concepts 
 ### 🎲 Probabilistic Models:
 Represent and analyze uncertainty within data by leveraging probability distributions.
 
-   #### 1. Logistic Regression (classification)
+   #### 1. [Logistic Regression (classification)](https://github.com/mayafouad/ML/tree/main/Supervised/Logistic%20Regression)
