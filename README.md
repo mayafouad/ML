@@ -10,7 +10,7 @@ Represent data as points in a multi-dimensional space, using geometric concepts 
 #### 1. [Simple Linear Regression](https://github.com/mayafouad/ML/tree/main/Supervised/Simple%20Linear%20Regression)
 #### 2. [Multiple Linear Regression](https://github.com/mayafouad/ML/tree/main/Supervised/Multivariate%20Linear%20Regression)
 #### 3. [Polynomial Regression](https://github.com/mayafouad/ML/tree/main/Supervised/Polynomial%20Regression)
-#### 4. KNN (classification)
+#### 4. [KNN](https://github.com/mayafouad/ML/tree/main/Supervised/KNN)
 #
 ### 🎲 Probabilistic Models:
 Represent and analyze uncertainty within data by leveraging probability distributions.
