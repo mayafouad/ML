@@ -1,0 +1,12 @@
+Suppose you are the owner of a shop and you have some basic data about 
+your customers like customer ID, age, gender, occupation, etc. You want to 
+perform customer segmentation (subdivision of a market into discrete 
+customer groups that share similar characteristics) using this data. 
+The dataset can be downloaded from:  
+https://www.kaggle.com/datasets/dev0914sharma/customer-clustering/data 
+Given this data, you are required to cluster customers. Perform the following 
+steps: 
+➢ Preprocess the data 
+➢ Use k-means clustering with different k values (2, 3, 4)  
+➢ Use agglomerative clustering and plot the dendrogram 
+➢ Compare the time of k-means and agglomerative clustering on this data 
