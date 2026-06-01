@@ -1,18 +1,43 @@
 # Machine Learning 🤖✨
-#### A simple repository that implements Machine Learning Concepts to solve problems!
+
+A collection of machine learning algorithms implemented from scratch and applied to real-world datasets to better understand the core concepts behind each technique.
+
 ---
-## 🏷️ [Supervised Learning:](https://github.com/mayafouad/ML/tree/main/Supervised)
-Supervised learning uses labeled data to train models that can make predictions.
-#
-### 📈 Geometric Models:
-Represent data as points in a multi-dimensional space, using geometric concepts like distance, lines, or planes to make predictions and understand relationships. 
 
-#### 1. [Simple Linear Regression](https://github.com/mayafouad/ML/tree/main/Supervised/Simple%20Linear%20Regression)
-#### 2. [Multiple Linear Regression](https://github.com/mayafouad/ML/tree/main/Supervised/Multivariate%20Linear%20Regression)
-#### 3. [Polynomial Regression](https://github.com/mayafouad/ML/tree/main/Supervised/Polynomial%20Regression)
-#### 4. [KNN](https://github.com/mayafouad/ML/tree/main/Supervised/KNN)
-#
-### 🎲 Probabilistic Models:
-Represent and analyze uncertainty within data by leveraging probability distributions.
+## 🏷️ Supervised Learning
 
-   #### 1. [Logistic Regression (classification)](https://github.com/mayafouad/ML/tree/main/Supervised/Logistic%20Regression)
+Supervised learning uses labeled data to train models that can make predictions or classify new data.
+
+### 📈 Geometric Models
+
+Geometric models represent data as points in a multi-dimensional space and use concepts such as distance, lines, and planes to learn patterns and make predictions.
+
+#### Regression
+
+* [Simple Linear Regression](https://github.com/mayafouad/ML/tree/main/Supervised/Simple%20Linear%20Regression)
+* [Multiple Linear Regression](https://github.com/mayafouad/ML/tree/main/Supervised/Multivariate%20Linear%20Regression)
+* [Polynomial Regression](https://github.com/mayafouad/ML/tree/main/Supervised/Polynomial%20Regression)
+
+#### Classification
+
+* [K-Nearest Neighbors (KNN)](https://github.com/mayafouad/ML/tree/main/Supervised/KNN)
+
+### 🎲 Probabilistic Models
+
+Probabilistic models handle uncertainty by leveraging probability distributions and statistical principles.
+
+#### Classification
+
+* [Logistic Regression](https://github.com/mayafouad/ML/tree/main/Supervised/Logistic%20Regression)
+* [Naïve Bayes](https://github.com/mayafouad/ML/tree/main/Supervised/Na%C3%AFve%20Bayes)
+
+---
+
+## 🏷️ Unsupervised Learning
+
+Unsupervised learning discovers hidden patterns and structures in unlabeled data.
+
+### Clustering Algorithms
+
+* [Agglomerative Clustering](https://github.com/mayafouad/ML/blob/main/UnSupervised/Agglomerative.ipynb)
+* [K-Means Clustering](https://github.com/mayafouad/ML/blob/main/UnSupervised/K-Means.ipynb)
